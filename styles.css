@@ -42,17 +42,8 @@ body {
     transition: background-color 0.3s ease;
 }
 
-.button-back:hover {
-    background-color: #grey;
-}
-
-
-recipe-details {
-    display: flex;
-    flex-direction: row;
-    /* Establecer la dirección de flexión en fila */
-    align-items: center;
-    /* Alinear elementos verticalmente */
+.recipe-details {
+    text-align: center;
 }
 
 .recipe-details img {
